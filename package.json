@@ -1,0 +1,26 @@
+{
+  "name": "node_auth_jwt",
+  "version": "1.0.0",
+  "description": "estudando",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Larileonell/NODE_AUTH_JWT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Larileonell/NODE_AUTH_JWT/issues"
+  },
+  "homepage": "https://github.com/Larileonell/NODE_AUTH_JWT#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "express": "^4.18.2",
+    "moongose": "^1.0.0",
+    "nodemon": "^2.0.21"
+  }
+}
